@@ -21,4 +21,4 @@ Challenges:
 
 	In addition it could be difficult getting all the mallets to react in a speedy fashion to make it clear which facial gestures are sparking each reaction. It could also potentially be difficult to get the mallets to hit the keys in an appropriate way so that they make enough sound but are also not over aggressive or overly tentative and are only hitting one key at a time.
 
-Lastly, we want this to be something that people of all ages and skill levels can use quickly and easily, so we want the “on boarding” for the program to be fast and efficient so designing an aesthetic and simple UI will be important and could be challenging. 
+	Lastly, we want this to be something that people of all ages and skill levels can use quickly and easily, so we want the “on boarding” for the program to be fast and efficient so designing an aesthetic and simple UI will be important and could be challenging. 
