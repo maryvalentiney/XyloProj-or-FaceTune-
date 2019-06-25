@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 Idea and Mission Statement: 
 
 	The aim of this project is to create an interactive music player that uses data from a facial recognition program to actuate playing a xylophone. This project is an extension of a facial recognition music player that Mary has developed previously in the fall 2018 semester that used three different facial cues each to play a different song and aimed to highlight inter-computer connections. Along with being just a fun thing to play with, this could also be used to teach people about and aid people with playing music especially young children and the physically or developmentally handicapped. Although this project will be realized on a small scale, it has the potential to be expanded to full sized keyboards which would not only be fun but could be used to aid in accessibility for piano players who are no longer able to play with their hands.
@@ -36,7 +25,7 @@ Challenges:
 
 	In addition it could be difficult getting all the mallets to react in a speedy fashion to make it clear which facial gestures are sparking each reaction. It could also potentially be difficult to get the mallets to hit the keys in an appropriate way so that they make enough sound but are also not over aggressive or overly tentative and are only hitting one key at a time.
 
-Lastly, we want this to be something that people of all ages and skill levels can use quickly and easily, so we want the “on boarding” for the program to be fast and efficient so designing an aesthetic and simple UI will be important and could be challenging. 
+	Lastly, we want this to be something that people of all ages and skill levels can use quickly and easily, so we want the “on boarding” for the program to be fast and efficient so designing an aesthetic and simple UI will be important and could be challenging. 
 
 Research: 
 	Austism, music, and emotion; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3853405/
